@@ -9,14 +9,16 @@ Getting Started
 1. To run the Program just Download the files into a specific directory.
 2. Next, open the terminal and go into that directory.
 3. now use the command:
-		source env/bin/activate
+		`source env/bin/activate`
 to create the virtual environment.
 4. use: 
-		python3 repy.py
+		`python3 repy.py`
    to run the program.
 5. If the program runs, go into the browser and type: 
-		localhost:5000
+		`localhost:5000`
   and type a stackoverflow user's url in the text box (eg. https://stackoverflow.com/users/696257/dkulkarni) 
 6. The result should contain the Username, Reputation, Ranking, Gold, Silver, Bronze batch counts, number of Answers, Questions and People Reached.
 
-No need to install any packages explicitly. Everything is there in the repository.
+No need to install any packages explicitly. Everything is there in the repo.
+
+If any issues, please contact at `mayank.mds5@gmail.com`.
